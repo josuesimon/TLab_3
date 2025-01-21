@@ -15,6 +15,15 @@ There are three Python files which you will create in this repository to complet
 
 Further directions for each file are listed below: 
 
+
+
+
+
+
+
+
+
+#TASK #1
 **weather_api.py**
 
 Create a file called `weather_api.py`
@@ -27,6 +36,14 @@ Remove all the meta-data from this resultant JSON file and keep only the data th
 
 **Note** You are only limited to 1000 API calls per day. If you use any more, you must wait for this limit to be reset tomorrow.
 
+
+
+
+
+
+
+
+#TASK #2
 **data_transform.ipynb**
 
 Create a jupyter notebook in the folder titled `notebooks` called `data_transform.py`. Within this file you will be create the following dataframes and save them as a csv files into your folder `data/csv`.
@@ -37,6 +54,18 @@ Create a jupyter notebook in the folder titled `notebooks` called `data_transfor
 
 Be sure to drop rows that contain missing values as you perform these data transformations.
 
+
+
+
+
+
+
+
+
+
+
+
+#TASK #3
 **explore_weather.ipynb**
 
 After creating these CSV files, you will then perform exploratory data analysis on the data file that describes historical yearly weather data and crop output. As exploratory data analysis should entail a variety of data visualizations to determine patterns and relationships, we welcome you to perform your own EDA to determine trends.
